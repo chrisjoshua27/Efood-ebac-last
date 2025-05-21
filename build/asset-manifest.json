@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.js": "/static/js/main.bfe12a55.js",
+    "static/media/twitter.svg": "/static/media/twitter.e7d2104c71e07e36800d606707880a2f.svg",
+    "static/media/instagram.svg": "/static/media/instagram.506e4860cd8c7326017334d6e9b9d394.svg",
+    "static/media/star.svg": "/static/media/star.17b173e3b438432f555ae5fb07c40d8c.svg",
+    "static/media/facebook.svg": "/static/media/facebook.6a595cd47316afe6f93649a5c667effa.svg",
+    "index.html": "/index.html",
+    "main.bfe12a55.js.map": "/static/js/main.bfe12a55.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.bfe12a55.js"
+  ]
+}
